@@ -19,7 +19,7 @@ jobs:
       - uses: quarto-dev/quarto-actions/setup@v2
       - name: Build docs
         run: |
-          make docs-build
+          quarto render
       # push to netlify -------------------------------------------------------
       # set release name ----
 

@@ -10,6 +10,13 @@ website:
       #- about.qmd
       - href: blog/index.qmd
         text: Blog
+    right:
+      - icon: github
+        href: https://github.com/machow/breakfastconf-web
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/company/breakfast-conf
+        aria-label: LinkedIn
 
 format:
   html:

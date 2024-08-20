@@ -2,9 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "breakfastconf",
+    "title": "breakfast conf",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "breakfast conf is an international meeting of breakfast scholars from around the globe—including many of the field’s most distinguished scholars, researchers, and students.\nThis year, the conference will take place in late October, 2024 in Philadelphia, PA, USA."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nAnnouncing Breakfast Conf\n\n\n \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "blog/announcing-breakfast-conf.html",
+    "href": "blog/announcing-breakfast-conf.html",
+    "title": "Announcing Breakfast Conf",
+    "section": "",
+    "text": "This will be a blog post 😈."
   }
 ]

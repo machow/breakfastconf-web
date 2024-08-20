@@ -1,7 +1,7 @@
 ---
-title: "breakfastconf"
+title: "breakfast conf"
 ---
 
-This is a Quarto website.
+breakfast conf is an international meeting of breakfast scholars from around the globe---including many of the field's most distinguished scholars, researchers, and students.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This year, the conference will take place in late October, 2024 in Philadelphia, PA, USA.
